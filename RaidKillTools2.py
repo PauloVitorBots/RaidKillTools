@@ -38,7 +38,7 @@ if comando == ('raid explicações'):
     time.sleep(2.5)
     print('para que existe esse script ?')
     time.sleep(2.2)
-    print('para raidar (encher de mensagem) servidores de trolls e acabar com o servidor deles.')
+    print('fins de brincadeira, mais pode ser usado para algo mais.')
     time.sleep(2.2)
     print('como fazer os ataques ?')
     time.sleep(2.2)
